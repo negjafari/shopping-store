@@ -1,0 +1,21 @@
+ID,Title,Rating,Published,CreatedAt,PublishedAt,Content,productID
+1,Not Bad,3,1,NULL,NULL,NULL,1
+2,Awful,1,1,NULL,NULL,NULL,2
+3,Perfect,5,1,NULL,NULL,NULL,3
+4,Loved it!,4,1,NULL,NULL,NULL,4
+5,Could have been better,2,1,NULL,NULL,NULL,2
+6,Don't recommend,2,1,NULL,NULL,NULL,1
+7,Good,4,1,NULL,NULL,NULL,7
+8,Awsome,5,1,NULL,NULL,NULL,7
+9,The best I've seen,5,1,NULL,NULL,NULL,1
+10,Not Bad,3,1,NULL,NULL,NULL,10
+11,Good,3,1,NULL,NULL,NULL,1
+12,Even didn't use it,1,1,NULL,NULL,NULL,1
+13,Perfect,5,1,NULL,NULL,NULL,3
+14,Loved it!,4,1,NULL,NULL,NULL,4
+15,Couldn't have been better,5,1,NULL,NULL,NULL,6
+16,recommend,4,1,NULL,NULL,NULL,1
+17,Good,4,1,NULL,NULL,NULL,4
+18,Awsome,5,1,NULL,NULL,NULL,7
+19,The best ,5,1,NULL,NULL,NULL,1
+20,Not Bad,3,1,NULL,NULL,NULL,10

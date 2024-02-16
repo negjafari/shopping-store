@@ -1,0 +1,18 @@
+ID,FullName,LastTimeVisited,BirthDate,AddressID,ProfileID,ShopID
+1,"Negin Jafari",NULL,2000-05-11,2,1,1
+3,"Sara Raad",NULL,2001-08-11,6,3,1
+5,"Ali Mohammadi",NULL,2001-12-12,21,1,1
+6,"Baraan Jamshidi",NULL,1998-08-12,22,3,1
+7,"Paria Behnam",NULL,1998-10-10,9,7,1
+8,"Mostafa Moradi",NULL,1993-05-25,10,8,1
+9,"Rahaa Alipoor",NULL,1997-01-18,11,9,1
+10,"Koorosh Samani",NULL,1994-02-04,12,10,1
+11,"Leila Hosseine",NULL,1998-09-08,13,11,1
+12,"Parsa Jahani",NULL,1991-04-08,14,12,1
+13,"Mitra Salari",NULL,1997-01-07,15,13,1
+14,"Reza Nasiri",NULL,1990-10-10,16,14,1
+15,"Nazanin Alavi",NULL,1992-02-04,17,15,1
+16,"Taha Pahlavan",NULL,1993-07-19,17,16,1
+17,"Reihane Samadi",NULL,1998-01-05,18,17,1
+18,"Raamin Rezazade",NULL,1997-04-05,19,18,1
+19,"Elahe Hamidi",NULL,1994-05-07,20,19,1
