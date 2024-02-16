@@ -10,6 +10,9 @@ This project was created as a part of a database course and aims to demonstrate 
 - Users belonging to a specific city
 - Admin can add, edit and remove products
 
-
-### Database Schema
+### Usage
+The database of this project is implemented with MySQL.
 The database schema for this project is provided in the `tables` folder.
+All queries for creating tables is provided in the `sql-queries` folder.
+Sample data for tables is provided in the `data` folder.
+
